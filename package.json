@@ -1,10 +1,10 @@
 {
     "name": "calico",
-    "displayName": "Calico",
-    "description": "Colour scheme for Visual Studio Code",
-    "version": "0.0.1",
+    "displayName": "Calico Theme",
+    "description": "A VS Code theme inspired by my calico cat Delilah",
+    "version": "0.0.3",
     "publisher": "snenenenenenene",
-    "license": "CC0-1.0",
+    "license": "MIT",
     "author": {
         "name": "Senne Bels",
         "url": "http://github.com/snenenenenenene"
@@ -25,7 +25,7 @@
         "url": "https://github.com/snenenenenenene/vscode-calico/issues"
     },
     "engines": {
-        "vscode": "^1.0.0"
+        "vscode": "^1.75.0"
     },
     "categories": [
         "Themes"
