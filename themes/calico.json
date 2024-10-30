@@ -1,0 +1,92 @@
+{
+    "name": "Calico Cat",
+    "type": "light",
+    "colors": {
+        "editor.background": "#FCF7F4",
+        "editor.foreground": "#2B2624",
+        "editor.lineHighlightBackground": "#F5EBE6",
+        "editorWhitespace.foreground": "#D4C1B7",
+        "editorIndentGuide.background": "#B8A69C",
+        "editor.findMatchHighlightBackground": "#F4A261"
+    },
+    "tokenColors": [
+        {
+            "name": "Comments",
+            "scope": [
+                "comment",
+                "punctuation.definition.comment"
+            ],
+            "settings": {
+                "foreground": "#6B5A50",
+                "fontStyle": "italic"
+            }
+        },
+        {
+            "name": "Keywords, Punctuation",
+            "scope": [
+                "keyword",
+                "keyword.control",
+                "storage.type",
+                "storage.modifier",
+                "punctuation"
+            ],
+            "settings": {
+                "foreground": "#D97941"
+            }
+        },
+        {
+            "name": "Objects",
+            "scope": [
+                "variable.other.object",
+                "support.class",
+                "entity.name.type"
+            ],
+            "settings": {
+                "foreground": "#2B2624"
+            }
+        },
+        {
+            "name": "Constants",
+            "scope": [
+                "constant.numeric",
+                "constant.language",
+                "support.type.primitive"
+            ],
+            "settings": {
+                "foreground": "#D35D0C"
+            }
+        },
+        {
+            "name": "Strings",
+            "scope": [
+                "string",
+                "constant.other.symbol"
+            ],
+            "settings": {
+                "foreground": "#000000",
+                "background": "#F5EBE6"
+            }
+        },
+        {
+            "name": "Methods",
+            "scope": [
+                "entity.name.function",
+                "support.function"
+            ],
+            "settings": {
+                "foreground": "#594B42"
+            }
+        },
+        {
+            "name": "Variables",
+            "scope": [
+                "variable.language",
+                "variable.other",
+                "variable.parameter"
+            ],
+            "settings": {
+                "foreground": "#8B5E3C"
+            }
+        }
+    ]
+}
