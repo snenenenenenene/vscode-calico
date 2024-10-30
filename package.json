@@ -2,20 +2,27 @@
     "name": "calico",
     "displayName": "Calico Theme",
     "description": "A VS Code theme inspired by my calico cat Delilah",
-    "version": "0.0.3",
+    "version": "0.1.1",
     "publisher": "snenenenenenene",
     "license": "MIT",
     "author": {
         "name": "Senne Bels",
         "url": "http://github.com/snenenenenenene"
     },
+    "icon": "./icon.png",
     "keywords": [
         "visual studio code",
         "themes",
         "colour theme",
         "theming",
         "extension",
-        "calico"
+        "calico",
+        "theme",
+        "calico",
+        "light theme",
+        "dark theme",
+        "cat",
+        "high contrast"
     ],
     "repository": {
         "type": "git",
@@ -33,9 +40,14 @@
     "contributes": {
         "themes": [
             {
-                "label": "Calico",
+                "label": "Calico Light",
                 "uiTheme": "vs",
-                "path": "./themes/calico.json"
+                "path": "./themes/calico-light.json"
+            },
+            {
+                "label": "Calico Dark",
+                "uiTheme": "vs",
+                "path": "./themes/calico-dark.json"
             }
         ]
     }
