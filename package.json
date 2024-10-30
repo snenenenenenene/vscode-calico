@@ -14,7 +14,8 @@
         "themes",
         "colour theme",
         "theming",
-        "extension"
+        "extension",
+        "calico"
     ],
     "repository": {
         "type": "git",

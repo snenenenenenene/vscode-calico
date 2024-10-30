@@ -2,16 +2,7 @@
 
 This theme has been developed while using it with TypeScript and JavaScript. I am not sure how it'd be like with other languages.
 
-## Screenshot
-![Theme Screenshot](screenshot-v0.0.1.png)
-
-Please note that screenshot is taken while using these settings:
-
-```
-  "editor.renderWhitespace": "all",
-  "editor.fontFamily": "Fira Mono",
-  "editor.fontSize": 14
-```
+![Theme Screenshot](code.png)
 
 ## Features
 
