@@ -1,0 +1,41 @@
+{
+    "name": "calico",
+    "displayName": "Calico",
+    "description": "Colour scheme for Visual Studio Code",
+    "version": "0.0.1",
+    "publisher": "snenenenenenene",
+    "license": "CC0-1.0",
+    "author": {
+        "name": "Senne Bels",
+        "url": "http://github.com/snenenenenenene"
+    },
+    "keywords": [
+        "visual studio code",
+        "themes",
+        "colour theme",
+        "theming",
+        "extension"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/snenenenenenene/vscode-calico.git"
+    },
+    "bugs": {
+        "url": "https://github.com/snenenenenenene/vscode-calico/issues"
+    },
+    "engines": {
+        "vscode": "^1.0.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Calico",
+                "uiTheme": "vs",
+                "path": "./themes/calico.json"
+            }
+        ]
+    }
+}
