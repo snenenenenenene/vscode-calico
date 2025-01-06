@@ -2,7 +2,18 @@
 
 Inspired by my beloved calico cat Delilah, this theme brings the beautiful contrast and warmth of calico cat colors to your coding environment. Just as Delilah brightens my day with her unique patches of orange, black, and white fur (with hints of green eyes!), this theme aims to make your coding experience both visually pleasing and highly readable.
 
-![Theme Screenshot](code.png)
+Created by [Senne Bels](https://www.sennebels.xyz/)
+
+## Theme Examples
+
+### Light Theme
+![Calico Light Theme](light.png)
+
+### Dark Theme
+![Calico Dark Theme](code.png)
+
+### Dark High Contrast Theme
+![Calico Dark High Contrast Theme](dark-hc.png)
 
 ## Theme Variants
 
