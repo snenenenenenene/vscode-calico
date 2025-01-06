@@ -2,7 +2,7 @@
     "name": "calico",
     "displayName": "Calico Theme",
     "description": "A VS Code theme inspired by my calico cat Delilah",
-    "version": "0.1.3",
+    "version": "0.2.0",
     "publisher": "snenenenenenene",
     "license": "MIT",
     "author": {
@@ -40,14 +40,34 @@
     "contributes": {
         "themes": [
             {
+                "label": "Calico Light Flat",
+                "uiTheme": "vs",
+                "path": "./themes/calico-light-flat.json"
+            },
+            {
+                "label": "Calico Dark Flat",
+                "uiTheme": "vs-dark",
+                "path": "./themes/calico-dark-flat.json"
+            },
+            {
                 "label": "Calico Light",
                 "uiTheme": "vs",
                 "path": "./themes/calico-light.json"
             },
             {
                 "label": "Calico Dark",
-                "uiTheme": "vs",
+                "uiTheme": "vs-dark",
                 "path": "./themes/calico-dark.json"
+            },
+            {
+                "label": "Calico Light High Contrast",
+                "uiTheme": "vs",
+                "path": "./themes/calico-light-high-contrast.json"
+            },
+            {
+                "label": "Calico Dark High Contrast",
+                "uiTheme": "vs-dark",
+                "path": "./themes/calico-dark-high-contrast.json"
             }
         ]
     }
